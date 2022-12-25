@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83dd4ed2-f962-40d4-811b-47505527ce89" name="Changes" comment="build production">
+    <list default="true" id="83dd4ed2-f962-40d4-811b-47505527ce89" name="Changes" comment="build production v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/787.bbda0bdc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/787.bbda0bdc.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.97e82606.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.97e82606.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.97e82606.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/priva/Documents/GitHub/bundesliga-data-visualization",
+    "last_opened_file_path": "C:/Users/priva/Documents/GitHub",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +51,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\priva\Documents\GitHub" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -74,7 +84,7 @@
       <workItem from="1671912258811" duration="997000" />
       <workItem from="1671916673618" duration="18792000" />
       <workItem from="1671935997478" duration="297000" />
-      <workItem from="1671937422140" duration="120000" />
+      <workItem from="1671937422140" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="top-scorer + header">
       <created>1671935277580</created>
@@ -83,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671935277580</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="build production v2">
+      <created>1671937799614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671937799614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +111,7 @@
     <MESSAGE value="redesigning" />
     <MESSAGE value="top-scorer + header" />
     <MESSAGE value="build production" />
-    <option name="LAST_COMMIT_MESSAGE" value="build production" />
+    <MESSAGE value="build production v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="build production v2" />
   </component>
 </project>
