@@ -2,6 +2,10 @@
 
 This is a React.js app that visualizes data from the German Football League (DFL) Bundesliga. The app displays the league table and allows users to select a specific matchday to view the results. The app also shows a leaderboard of the top goal scorers for the selected season. The data for this app is provided by the OpenLigaDB API.
 
+## Demo
+https://tr3xxx.github.io/bundesliga-data-visualization/build/
+
+
 ## Getting Started
 
 To get started with this app, follow these steps:
@@ -29,13 +33,13 @@ npm start
 ```
 This will start the development server and open the app in your default browser.
 
-#Deployment
+## Deployment
 To deploy this app to GitHub Pages, follow the instructions in the GitHub Pages documentation.
 
-#Contributing
+## Contributing
 If you want to contribute to this project, please follow the GitHub workflow and submit a pull request.
 
-#License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 I hope this helps! Let me know if you have any questions.
