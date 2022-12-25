@@ -1,6 +1,6 @@
 # DFL Bundesliga Data Visualization
 
-This is a React.js app that visualizes data from the German Football League (DFL) Bundesliga. The app displays the league table and allows users to select a specific matchday to view the results. The app also shows a leaderboard of the top goal scorers for the selected season. The data for this app is provided by the OpenLigaDB API.
+This is a React.js app that visualizes data from the German Football League (DFL) Bundesliga. The app displays the league table from the last 12 years, all matchdays with results and goal scorer from the last 12 years and the top scorer each year from the last 12 years and allows users to select a specific matchday to view the results. The app also shows a leaderboard of the top goal scorers for the selected season. The data for this app is provided by the OpenLigaDB API.
 
 ## Demo
 https://tr3xxx.github.io/bundesliga-data-visualization/build/
