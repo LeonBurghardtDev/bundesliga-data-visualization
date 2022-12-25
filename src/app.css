@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+
+table{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+body{
+    background-color: #282c34;
+    color: white;
+    font-family: Ubunto-Mono;
+    font-size: 16px;
+}
