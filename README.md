@@ -9,7 +9,7 @@ To get started with this app, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/dfl-bundesliga-data-visualization.git
+git clone https://github.com/tr3xxx/dfl-bundesliga-data-visualization.git
 ```
 2. Navigate to the project directory:
 
