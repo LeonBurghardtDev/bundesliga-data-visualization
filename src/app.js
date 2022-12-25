@@ -31,6 +31,9 @@ function App() {
 
     return (
         <>
+            <meta>
+                <title>Bundesliga Data</title>
+            </meta>
             <header>
                 <div style={{ display: 'block', textAlign:'center' }}>
                     DFL Bundesliga Data  visualization by <a href="https://tr3x.xyz" style={{textDecoration:'none',color:"white"}}> @LeonBurghardt</a> | Database provided by <a href="https://www.openligadb.de" style={{textDecoration:'none',color:"white"}}>@OpenLigaDB</a>
